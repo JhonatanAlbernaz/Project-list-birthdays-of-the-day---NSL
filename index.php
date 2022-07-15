@@ -1,6 +1,6 @@
 <?php
 
-    $title = "Inf Aniversariantes";
+    $title = "Cadastrar Aniversariantes";
 
     include "inc/header.php";
 

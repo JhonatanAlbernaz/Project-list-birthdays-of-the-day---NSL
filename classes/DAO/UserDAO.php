@@ -16,7 +16,7 @@
         public function save(User $user){
             
             $stm = Banco::getInstance()->prepare("
-                INSERT INTO aniversariantes(nome, dataNasc, funcao) 
+                INSERT INTO Aniversariantes(nome, dataNasc, funcao) 
                 VALUES (:nome, :dataNasc, :funcao)
             ");
 
