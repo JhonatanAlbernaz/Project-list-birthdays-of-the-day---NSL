@@ -14,7 +14,7 @@
 
         <?php
 
-            $stmt = Banco::getInstance()->prepare("SELECT nome, funcao FROM  aniversariantes WHERE dataNasc = :dataNasc");
+            $stmt = Banco::getInstance()->prepare("SELECT nome, funcao FROM  Aniversariantes WHERE dataNasc = :dataNasc");
             $data = date("Y-m-d");
             $stmt->bindParam("dataNasc", $data);
             if($stmt->execute()){
@@ -24,7 +24,7 @@
                     echo "<h4>$row->funcao</h4>";
                     }
             }else {
-                $stmt = Banco::getInstance()->prepare("SELECT * FROM aniversariantes WHERE month(dataNasc) = month(now())");
+                $stmt = Banco::getInstance()->prepare("SELECT * FROM Aniversariantes WHERE month(dataNasc) = month(now())");
                 if($stmt->execute()){
                     if($stmt->rowCount() > 0){
                         echo "<h1 class=\"h2\">Aniversariantes do mês<h1>";
