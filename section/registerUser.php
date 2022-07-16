@@ -27,6 +27,7 @@
 
        <!--turmas da manhã-->
 
+       <option name="1ºI01-EM"> 1ºI01-EM </option>
        <option name="1i01INF"> 1i01INF </option>
        <option name="1i01ADM"> 1i01ADM </option>
        <option name="1i02ADM"> 1i02ADM </option>
