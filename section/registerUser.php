@@ -10,6 +10,43 @@
       <input type="text" name="nome" id="nome" placeholder="Nome"/>
       <input type="text" name="dataNasc" id="dataNasc" placeholder="Data de Nascimento"/>
       <select name="funcao" id="funcao">
+
+       <!--Turmas da Manhã-->
+
+       <option name="1ºI01-EM"> 1ºI01-EM </option>
+       <option name="1ºI1EMINF"> 1ºI1EMINF </option>
+       <option name="1ºI2EMADM"> 1ºI2EMADM </option>
+       <option name="1ºI1EMADM"> 1ºI1EMADM </option>
+       <option name="1i01HUM"> 1i01HUM </option>
+       <option name="2ºI01-EM"> 2ºI01-EM </option>
+       <option name="2ºI02-EM"> 2ºI02-EM </option>
+       <option name="2ºI03-EM"> 2ºI03-EM </option>
+       <option name="2ºI04-EM"> 2ºI04-EM </option>
+       <option name="3i01"> 3i01 </option>
+       <option name="3i02"> 3i02 </option>
+       <option name="3i03"> 3i03 </option>
+       <option name="3i04"> 3i04 </option>
+       <option name="3ºM1EMINF"> 3ºM1EMINF </option>
+
+       <!--Turmas da Tarde-->               
+
+       <option name="1ºV01-EM"> 1ºV01-EM </option>
+       <option name="1ºV02-EM"> 1ºV02-EM </option>
+       <option name="2ºV01-EM"> 2ºV01-EM </option>
+       <option name="3ºV01-EM"> 3ºV01-EM </option>
+       <option name="3ºV02-EM"> 3ºV02-EM </option>
+       <option name="2ºV1EMINF"> 2ºV1EMINF </option>
+
+       <!--Turmas da Noite-->
+
+       <option name="1ºN01EJA-EM"> 1ºN01EJA-EM </option>
+       <option name="2ºN01EJA-EM"> 2ºN01EJA-EM </option>
+       <option name="3ºN01EJA-EM"> 3ºN01EJA-EM </option>
+       <option name="3ºN02EJA-EM"> 3ºN02EJA-EM </option>
+       <option name="TEC. Comércio"> TEC. Comércio </option>
+
+       <!--Funcionários-->
+
        <option name="Diretor"> Diretor </option>
        <option name="Professor"> Professor(a) </option>
        <option name="Coordenador pedagógico"> Coordenador pedagógico </option>
@@ -25,39 +62,8 @@
        <option name="Cuidador"> Cuidador </option>
        <option name="Professor de AEE"> Professor de AEE </option>
 
-       <!--turmas da manhã-->
+       <!---------------->
 
-       <option name="1ºI01-EM"> 1ºI01-EM </option>
-       <option name="1i01INF"> 1i01INF </option>
-       <option name="1i01ADM"> 1i01ADM </option>
-       <option name="1i02ADM"> 1i02ADM </option>
-       <option name="1i01HUM"> 1i01HUM </option>
-       <option name="2i01"> 2i01 </option>
-       <option name="2i02"> 2i02 </option>
-       <option name="2i03"> 2i03 </option>
-       <option name="2i04"> 2i04 </option>
-       <option name="3i01"> 3i01 </option>
-       <option name="3i02"> 3i02 </option>
-       <option name="3i03"> 3i03 </option>
-       <option name="3i04"> 3i04 </option>
-       <option name="3M01INF"> 3M01INF </option>
-
-       <!--Turmas da tarde-->               
-
-       <option name="1v01"> 1v01 </option>
-       <option name="1v02"> 1v02 </option>
-       <option name="2v01"> 2v01 </option>
-       <option name="2v02"> 2EMI </option>
-       <option name="3v01"> 3v01 </option>
-       <option name="3v02"> 3v02 </option>
-
-       <!--turmas da noite-->
-
-       <option name="1EJA1"> 1EJA1 </option>
-       <option name="2EJA1"> 2EJA1 </option>
-       <option name="3EJA1"> 3EJA1 </option>
-       <option name="3EJA2"> 3EJA2 </option>
-       <option name="TEC. Comércio"> TEC. Comércio </option>
       </select>
       <button type="submit" class="btn botao-enviar"> Enviar </button>
      </form>
