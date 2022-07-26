@@ -22,10 +22,10 @@
        <option name="2ºI02-EM"> 2ºI02-EM </option>
        <option name="2ºI03-EM"> 2ºI03-EM </option>
        <option name="2ºI04-EM"> 2ºI04-EM </option>
-       <option name="3i01"> 3i01 </option>
-       <option name="3i02"> 3i02 </option>
-       <option name="3i03"> 3i03 </option>
-       <option name="3i04"> 3i04 </option>
+       <option name="3ºI01-EM"> 3ºI01-EM </option>
+       <option name="3ºI02-EM"> 3ºI02-EM </option>
+       <option name="3ºI03-EM"> 3ºI03-EM </option>
+       <option name="3ºI04-EM"> 3ºI04-EM </option>
        <option name="3ºM1EMINF"> 3ºM1EMINF </option>
 
        <!--Turmas da Tarde-->               
@@ -48,19 +48,19 @@
        <!--Funcionários-->
 
        <option name="Diretor"> Diretor </option>
-       <option name="Professor"> Professor(a) </option>
-       <option name="Coordenador pedagógico"> Coordenador pedagógico </option>
-       <option name="Pedagogo"> Pedagogo </option>
-       <option name="CASF"> CASF </option>
-       <option name="Secretario"> Secretario </option>
-       <option name="Auxiliar de secretaria"> Auxiliar de secretaria </option>
-       <option name="Coordenador escola"> Coordenador escola </option>
+       <option name="Professor(a)"> Professor(a) </option>
+       <option name="Professor(a) Coordenador(a) De Área"> Professor(a) Coordenador(a) De Área </option>
+       <option name="Coordenador(a) Pedagógico"> Coordenador(a) Pedagógico </option>
+       <option name="Coordenador(a) De Turno"> Coordenador(a) De Turno </option>
+       <option name="Coordenador(a) Do Curso Técnico Em Informá(a)tica"> Coordenador Do Curso Técnico Em Informática </option>
+       <option name="Secretario(a)"> Secretario(a) </option>
+       <option name="Auxiliar De Secretaria"> Auxiliar De Secretaria </option>
+       <option name="Pedagogo(a)"> Pedagogo(a) </option>
        <option name="PCA"> PCA </option>
-       <option name="Coordenador de curso técnico"> Coordenador de curso técnico </option>
-       <option name="Auxiliar de serviço gerais"> Auxiliar de serviço gerais </option>
+       <option name="Auxiliar De Serviços Gerais"> Auxiliar De Serviços Gerais </option>
        <option name="Cozinheira"> Cozinheira </option>
-       <option name="Cuidador"> Cuidador </option>
-       <option name="Professor de AEE"> Professor de AEE </option>
+       <option name="Cuidador(a)"> Cuidador(a) </option>
+       <option name="Professor(a) De AEE"> Professor(a) De AEE </option>
 
        <!---------------->
 
