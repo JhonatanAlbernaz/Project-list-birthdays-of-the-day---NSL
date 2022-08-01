@@ -207,3 +207,59 @@
     margin-left: 5px;
     text-align: center;
 }
+
+
+/* ========== Responsivo ========== */
+
+@media (min-width: 425px) and (max-width: 768px) {
+    .imagem-principal {
+        background-image: url("../image/BG_3.jpg");
+        background-position: center;
+        background-size: cover;
+        height: 925px;
+    }
+
+    .div-com-conteudo {
+        box-shadow: 0 0.1rem 4rem rgb(0 0 0 / 15%);
+        border-radius: 30px;
+        margin-top: 45px;
+        margin-left: 16px;
+        margin-bottom: 45px;
+        background-color: white;
+        height: auto;
+        width: 95%;
+    }
+
+    .div-data {
+        width: 170px;
+        height: 70px;
+        background-color: #3286e3;
+        margin-left: 550px;
+        margin-top: -360px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 3px;
+    }
+
+    .div-data h2 {
+        color: white;
+        text-align: center;
+        padding-top: 10px;
+        font-size: 40px;
+        font-family: 'Roboto Slab', serif;
+    }
+
+}
+  
+@media (min-width: 769px) and (max-width: 1024px) {
+    
+}
+
+@media (min-width: 1025px) and (max-width: 1440px) {
+    
+}
+
+@media (min-width: 1441px) and (max-width: 2560px) {
+    
+}
