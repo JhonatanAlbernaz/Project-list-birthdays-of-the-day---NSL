@@ -5,11 +5,19 @@
 <section class="container-fluid imagem-principal">
  <div class="container">
   <div class="row rw-padding-55px">
+  <div class="logo"></div>
+  <div class="barra-vertical"></div>
+  <div class="nomes">
+
+    <h3>3ºM01EMINF</h3>
+    <p>Jhonatan Albernaz, <br> Júlio Amorim e <br> Milleny Soares.</p>
+
+  </div>
    <div class="col-lg-2"></div>
    <div class="col-lg-8">
+   <h2 class="title-h2"> Nossos parabéns a: </h2>
     <div class="div-com-conteudo">
     <div class="height-e-widht">
-     <h2> Nossos parabéns a: </h2>
      <div class="div-box-shadow">
 
         <?php

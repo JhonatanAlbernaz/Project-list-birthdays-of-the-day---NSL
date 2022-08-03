@@ -132,23 +132,24 @@
     box-shadow: 0 1.1rem 2rem rgb(0 0 0 / 15%);
     border-radius: 30px;
     margin-top: 43px;
-    background-color: white;
+    background-color: #ffbf00;
+    padding: 20px;
 }
 
 .div-box-shadow h3 {
     color: black;
-    font-size: 1.7rem;
+    font-size: 3.5rem;
     padding-top: 15px;
-    font-family: 'Merriweather', serif;
     margin-left: 5px;
+    font-family: 'Oswald', sans-serif;
     text-align: center;
 }
 
 .div-box-shadow h4 {
     color: gray;
-    font-size: 1.5rem;
-    font-family: 'Merriweather', serif;
+    font-size: 2rem;
     margin-left: 5px;
+    font-family: 'Oswald', sans-serif;
     text-align: center;
     padding-bottom: 15px;
 }
@@ -206,6 +207,51 @@
     font-family: 'Merriweather', serif;
     margin-left: 5px;
     text-align: center;
+}
+
+.title-h2 {
+    color: #3286e3;
+    text-transform: uppercase;
+    font-size: 3.5rem;
+    padding-top: 55px;
+    font-family: 'Merriweather', serif;
+    margin-left: 5px;
+    text-align: center;
+}
+
+.logo {
+    background-image: url(../image/WhatsApp\ Image\ 2022-08-03\ at\ 15.07.58.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-top: 65px;
+    margin-left: -78px;
+    height: 145px;
+    width: 107px;
+}
+
+.barra-vertical {
+    border-left: 3px solid black;
+    height: 142px;
+    position: absolute;
+    left: 50%;
+    margin-left: -620px;
+    margin-top: 67px;
+    width: 21%;
+}
+
+.nomes {
+    width: 9%;
+    position: absolute;
+    text-align: center;
+    font-size: 17px;
+    margin-top: 80px;
+    margin-left: 50px;
+    font-family: 'Playfair Display', serif;
+}
+
+.nomes h3 {
+    font-family: 'Oswald', sans-serif !important;
 }
 
 

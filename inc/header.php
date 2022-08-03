@@ -25,7 +25,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
-    <link href="assets/css/appcss.css" rel="stylesheet">
+    <link href="assets/css/app.css" rel="stylesheet">
 
     <title><?php echo $title ?></title>
 
